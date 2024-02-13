@@ -14,6 +14,7 @@ Currently, two official plugins are available:
 - npm install
 - npm run dev
 - npm install modern-normalize
+- change the name of project
 -->
 
 <!-- to create react vite template:
