@@ -15,6 +15,11 @@ Currently, two official plugins are available:
 - npm run dev
 - npm install modern-normalize
 - change the name of project
+____________________________
+  FORM
+- npm install formik
+- npm install yup
+-
 -->
 
 <!-- to create react vite template:
