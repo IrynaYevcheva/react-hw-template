@@ -11,15 +11,25 @@ Currently, two official plugins are available:
   uses [SWC](https://swc.rs/) for Fast Refresh
 
 <!--
+To do
 - npm install
 - npm run dev
-- npm install modern-normalize
 - change the name of project
 ____________________________
-  FORM
+
+Added
+- npm install modern-normalize
+- npm install react-icons
+- npm install react-router-dom
+- npm install axios
+- npm install --save clsx
+____________________________
+
+Options
 - npm install formik
 - npm install yup
--
+- npm install react-loader-spinner --save
+- npm install react-hot-toast
 -->
 
 <!-- to create react vite template:
